@@ -86,6 +86,11 @@ v2
 male,  acapella, clean vocal, Euphoric, trance, Bass-Driven, Energy Surge, Melodic Rush, High Voltage, Electric Glow
 ```
 
+v3
+```
+a capella, Energetic, commanding vocals, anthem-like, distorted yet clear, powerful tone, driving rhythm, uplifting and intense, themes of triumph and freedom, layered effects, rhythmic phrasing
+```
+
 
 
 #### Acapella only
