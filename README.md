@@ -64,6 +64,12 @@ Special Note: Use accessible language and avoid uncommon words unless their mean
 
 ### Styles
 
+#### ami trap
+```
+ Hard-hitting bars with a steady, us ami trap drill beat.
+```
+
+
 #### Euphoric Techno Vocals
 
 v1
