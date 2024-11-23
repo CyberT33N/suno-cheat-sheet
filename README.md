@@ -29,3 +29,8 @@ comedic folk acapella
 ```
 acapella melancholic harmony melodica
 ```
+
+##### Hip Hop
+```
+Muffled urban vocals. Recorded speech. A cappella
+```
