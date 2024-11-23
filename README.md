@@ -68,6 +68,10 @@ Special Note: Use accessible language and avoid uncommon words unless their mean
 ```
  Hard-hitting bars with a steady, us ami trap drill beat.
 ```
+```
+aggressive screaming ami trap 808
+```
+
 
 
 #### Euphoric Techno Vocals
